@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen Majidpour
-- 👨‍💻 I’m a front-end developer
+- 👨‍💻 I’m a WordPress and Front-End developer
 - 🔍 I have some knowledge of SEO and use it to design well-structured websites
 - 👀 I’m interested in graphic design, digital art, AI and learning new languages
 - 🎮 In my free time, I enjoy watching movies and TV shows, as well as playing video games
